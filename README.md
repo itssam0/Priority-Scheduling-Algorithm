@@ -27,4 +27,4 @@ To run the Priority Scheduling simulation, clone the repository and execute the 
 ```bash
 git clone https://github.com/yourusername/priority-scheduling.git
 cd priority-scheduling
-python priority_scheduling.py
+python prioritysched.py
